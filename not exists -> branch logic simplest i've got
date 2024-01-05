@@ -1,0 +1,6 @@
+$string($exists(heading.reference_identification_REF_billing_account[reference_identification_qualifier_01 = "12"].reference_identification_02))="false"?
+heading.reference_identification_REF_billing_account[reference_identification_qualifier_01 = "14"].reference_identification_02
+:
+heading.reference_identification_REF_billing_account[reference_identification_qualifier_01 = "12"].reference_identification_02
+
+
